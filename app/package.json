@@ -1,0 +1,10 @@
+{
+  "name": "RAMTasklist",
+  "version": "1.0.0",
+  "description": "TODO list inspired in the RAM memory",
+  "main": "server.js",
+  "repository": "https://github.com/gabrielchboff/RAMTasklist",
+  "author": "Gabriel",
+  "license": "MIT",
+  "private": false
+}
